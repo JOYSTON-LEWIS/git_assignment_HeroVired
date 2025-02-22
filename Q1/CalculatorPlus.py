@@ -1,4 +1,4 @@
-# Version 1 Release
+# Square Root Feature 
 
 # Importing Library for arithmetic operations in python
 import math
@@ -27,6 +27,11 @@ class Calculator:
             raise ValueError("Cannot divide by zero.")
         # Returns Division of Two Numbers
         return a / b
+    
+    # Square Root Function
+    def square_root(self, x):
+        # Returns Square Root Value of  the Number
+        return math.sqrt(x)
 
 # Main Script Declaration    
 if __name__ == "__main__":
@@ -38,6 +43,9 @@ if __name__ == "__main__":
     
     # Defining Second Number
     num2 = 4
+
+    # Defining the Third Number
+    num3 = 25
     
     # Printing Addition of Two Numbers
     print(f"{num1} + {num2} = {calculator.add(num1, num2)}")
@@ -50,3 +58,7 @@ if __name__ == "__main__":
     
     # Printing Division of Two Numbers
     print(f"{num1} / {num2} = {calculator.divide(num1, num2)}")
+
+    # Printing Square Root of the Number
+    print(f"The square root of {num3} = {calculator.square_root(num3)}")
+
