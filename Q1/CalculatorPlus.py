@@ -22,6 +22,9 @@ class Calculator:
     
     # Division Function
     def divide(self, a, b):
+        # Bug Fix to Handle Division by Zero
+        if b == 0:
+            raise ValueError("Cannot divide by zero.")
         # Returns Division of Two Numbers
         return a / b
 
