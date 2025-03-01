@@ -40,42 +40,9 @@ python CalculatorPlus.py
 
 #### 📸 Screenshots
 <!-- Add relevant screenshots here -->
-![Q1_Img_01](https://github.com/user-attachments/assets/26acc1f9-f36b-4c6f-895e-cd1b9b8bcc9b)
-![Q1_Img_02](https://github.com/user-attachments/assets/4d52b815-8212-45b0-8b6e-5b72c55c3047)
-![Q1_Img_03](https://github.com/user-attachments/assets/9ca67d52-f7af-46ab-b9db-e663c527cb83)
-![Q1_Img_04](https://github.com/user-attachments/assets/3d838803-1676-4ab8-b96a-daaf4686e428)
-![Q1_Img_05](https://github.com/user-attachments/assets/337aa884-e1e2-4427-b62f-9aef04a151f5)
-![Q1_Img_06](https://github.com/user-attachments/assets/2b06eb1b-6991-4333-94fa-5da6df3fd94e)
-![Q1_Img_07](https://github.com/user-attachments/assets/1f82c2f1-8a3a-4082-acf4-f3360dd4d498)
-![Q1_Img_08](https://github.com/user-attachments/assets/cb9091c0-d2ca-40ec-9a48-10f8242de195)
-![Q1_Img_09](https://github.com/user-attachments/assets/deb7f3ca-3643-42ff-9818-230dea438ecf)
-![Q1_Img_10](https://github.com/user-attachments/assets/796bc239-3eea-4af1-8137-e4ddf898a9fe)
-![Q1_Img_11](https://github.com/user-attachments/assets/067d616d-0471-44f5-97ef-77cdb03e56bc)
-![Q1_Img_12](https://github.com/user-attachments/assets/c5b56008-2acf-4093-ba9a-fabf6bafe983)
-![Q1_Img_13](https://github.com/user-attachments/assets/1ef1d438-999a-4d5f-b33c-1536d2c5040e)
-![Q1_Img_14](https://github.com/user-attachments/assets/d2727556-45ff-40a5-a69a-b4db15c8e63e)
-![Q1_Img_15](https://github.com/user-attachments/assets/059d887d-66d3-46a3-8606-d2f67db669e8)
-![Q1_Img_16](https://github.com/user-attachments/assets/f3cccf8c-23b6-45ae-a768-e820cbe2c5be)
-![Q1_Img_17](https://github.com/user-attachments/assets/4075e035-4384-490e-bae0-0ac9d02d3528)
-![Q1_Img_18](https://github.com/user-attachments/assets/38e197d1-45ce-4326-b68a-8d09f9017205)
-![Q1_Img_19](https://github.com/user-attachments/assets/4c543373-072e-463d-9532-698a46b94a10)
-![Q1_Img_20_A](https://github.com/user-attachments/assets/33af0819-3b25-4a06-bd44-619e29ca06f8)
-![Q1_Img_20_B](https://github.com/user-attachments/assets/236dd9e9-531c-4bbb-a83a-3369c44e7d54)
-![Q1_Img_20_C](https://github.com/user-attachments/assets/5498a516-5833-45bb-9ebc-ed87de3c3ba0)
-![Q1_Img_20_D](https://github.com/user-attachments/assets/298f445a-d375-4ed0-b167-7a60a9846271)
-![Q1_Img_21](https://github.com/user-attachments/assets/0d353453-3f09-4092-87d2-1e5955189625)
-![Q1_Img_22](https://github.com/user-attachments/assets/8aad590f-7cd8-4a33-82eb-86605d0ffa2a)
-![Q1_Img_23](https://github.com/user-attachments/assets/f679e646-987e-4c66-ab9a-ca213f6168e0)
-![Q1_Img_24](https://github.com/user-attachments/assets/bc91e9b1-9f9a-4907-93fa-914866d7662c)
-![Q1_Img_25_A](https://github.com/user-attachments/assets/c2e576f3-027d-4624-bf2b-af871cc36fde)
-![Q1_Img_25_B](https://github.com/user-attachments/assets/f5e24696-f0e1-40d9-9d98-45f9b761e2f3)
-![Q1_Img_25_C](https://github.com/user-attachments/assets/8348395b-48f2-452b-baab-5b59833b4bad)
-![Q1_Img_26](https://github.com/user-attachments/assets/1e1f6daa-3be3-4568-bc9b-fecb70a29d10)
-![Q1_Img_27_A](https://github.com/user-attachments/assets/57d8dc18-7be0-4544-bcb2-babab877e89e)
-![Q1_Img_27_B](https://github.com/user-attachments/assets/937c4afb-a791-4e50-84a7-0b42f32e9ba8)
-![Q1_Img_27_C](https://github.com/user-attachments/assets/35695644-5096-4fce-8998-72e3ff6672eb)
-![Q1_Img_28](https://github.com/user-attachments/assets/93795050-e265-4c4c-83e7-466a9b2f93ba)
-![Q1_Img_29](https://github.com/user-attachments/assets/ce9386cb-01c6-47b6-85ec-e3ad2ec92c37)
+
+⚠ **Note**: To improve readability, the **Screenshots** section (which contains alot of output images for the workflow) has been moved to the end of the `README.md`. 
+This ensures that the primary documentation and step-by-step instructions remain the main focus.  
 
 ---
 
@@ -96,12 +63,9 @@ git checkout lfs
 
 #### 📸 Screenshots
 <!-- Add relevant screenshots here -->
-![Q2_Img_01](https://github.com/user-attachments/assets/782ea1b8-7c94-486a-a89d-9896399f2b07)
-![Q2_Img_02](https://github.com/user-attachments/assets/749d6093-7c4f-470b-8876-e5705b144989)
-![Q2_Img_03](https://github.com/user-attachments/assets/fc775356-7bd7-40ff-bb3a-0f00567a3988)
-![Q2_Img_04](https://github.com/user-attachments/assets/3e735bdb-3bb4-4992-8083-d4d3cd78001a)
-![Q2_Img_05](https://github.com/user-attachments/assets/19374244-11aa-4a2c-a770-47400188c15b)
-![Q2_Img_06](https://github.com/user-attachments/assets/1c5f75ee-eb28-4e4f-9c48-eb85b65af78d)
+
+⚠ **Note**: To improve readability, the **Screenshots** section (which contains alot of output images for the workflow) has been moved to the end of the `README.md`. 
+This ensures that the primary documentation and step-by-step instructions remain the main focus.  
 
 ---
 
@@ -146,6 +110,92 @@ python GeometryCalculator.py
 
 #### 📸 Screenshots
 <!-- Add relevant screenshots here -->
+
+⚠ **Note**: To improve readability, the **Screenshots** section (which contains alot of output images for the workflow) has been moved to the end of the `README.md`. 
+This ensures that the primary documentation and step-by-step instructions remain the main focus.  
+
+---
+
+## 🛠️ Requirements
+Ensure you have the necessary dependencies installed before running the scripts:
+```cmd
+pip install math
+```
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
+
+---
+
+## 🤝 Contributing
+Feel free to fork and improve the scripts! ⭐ If you find this project useful, please consider starring the repo—it really helps and supports my work! 😊
+
+---
+
+## 📧 Contact
+For any queries, reach out via GitHub Issues.
+
+🎯 Thank you for reviewing this project! 🚀
+
+## 📸 Screenshots  
+<!-- Add relevant screenshots here -->  
+
+### ✅ Q1: CalculatorPlus - Square Root Feature & Bug Fix 
+
+![Q1_Img_01](https://github.com/user-attachments/assets/26acc1f9-f36b-4c6f-895e-cd1b9b8bcc9b)
+![Q1_Img_02](https://github.com/user-attachments/assets/4d52b815-8212-45b0-8b6e-5b72c55c3047)
+![Q1_Img_03](https://github.com/user-attachments/assets/9ca67d52-f7af-46ab-b9db-e663c527cb83)
+![Q1_Img_04](https://github.com/user-attachments/assets/3d838803-1676-4ab8-b96a-daaf4686e428)
+![Q1_Img_05](https://github.com/user-attachments/assets/337aa884-e1e2-4427-b62f-9aef04a151f5)
+![Q1_Img_06](https://github.com/user-attachments/assets/2b06eb1b-6991-4333-94fa-5da6df3fd94e)
+![Q1_Img_07](https://github.com/user-attachments/assets/1f82c2f1-8a3a-4082-acf4-f3360dd4d498)
+![Q1_Img_08](https://github.com/user-attachments/assets/cb9091c0-d2ca-40ec-9a48-10f8242de195)
+![Q1_Img_09](https://github.com/user-attachments/assets/deb7f3ca-3643-42ff-9818-230dea438ecf)
+![Q1_Img_10](https://github.com/user-attachments/assets/796bc239-3eea-4af1-8137-e4ddf898a9fe)
+![Q1_Img_11](https://github.com/user-attachments/assets/067d616d-0471-44f5-97ef-77cdb03e56bc)
+![Q1_Img_12](https://github.com/user-attachments/assets/c5b56008-2acf-4093-ba9a-fabf6bafe983)
+![Q1_Img_13](https://github.com/user-attachments/assets/1ef1d438-999a-4d5f-b33c-1536d2c5040e)
+![Q1_Img_14](https://github.com/user-attachments/assets/d2727556-45ff-40a5-a69a-b4db15c8e63e)
+![Q1_Img_15](https://github.com/user-attachments/assets/059d887d-66d3-46a3-8606-d2f67db669e8)
+![Q1_Img_16](https://github.com/user-attachments/assets/f3cccf8c-23b6-45ae-a768-e820cbe2c5be)
+![Q1_Img_17](https://github.com/user-attachments/assets/4075e035-4384-490e-bae0-0ac9d02d3528)
+![Q1_Img_18](https://github.com/user-attachments/assets/38e197d1-45ce-4326-b68a-8d09f9017205)
+![Q1_Img_19](https://github.com/user-attachments/assets/4c543373-072e-463d-9532-698a46b94a10)
+![Q1_Img_20_A](https://github.com/user-attachments/assets/33af0819-3b25-4a06-bd44-619e29ca06f8)
+![Q1_Img_20_B](https://github.com/user-attachments/assets/236dd9e9-531c-4bbb-a83a-3369c44e7d54)
+![Q1_Img_20_C](https://github.com/user-attachments/assets/5498a516-5833-45bb-9ebc-ed87de3c3ba0)
+![Q1_Img_20_D](https://github.com/user-attachments/assets/298f445a-d375-4ed0-b167-7a60a9846271)
+![Q1_Img_21](https://github.com/user-attachments/assets/0d353453-3f09-4092-87d2-1e5955189625)
+![Q1_Img_22](https://github.com/user-attachments/assets/8aad590f-7cd8-4a33-82eb-86605d0ffa2a)
+![Q1_Img_23](https://github.com/user-attachments/assets/f679e646-987e-4c66-ab9a-ca213f6168e0)
+![Q1_Img_24](https://github.com/user-attachments/assets/bc91e9b1-9f9a-4907-93fa-914866d7662c)
+![Q1_Img_25_A](https://github.com/user-attachments/assets/c2e576f3-027d-4624-bf2b-af871cc36fde)
+![Q1_Img_25_B](https://github.com/user-attachments/assets/f5e24696-f0e1-40d9-9d98-45f9b761e2f3)
+![Q1_Img_25_C](https://github.com/user-attachments/assets/8348395b-48f2-452b-baab-5b59833b4bad)
+![Q1_Img_26](https://github.com/user-attachments/assets/1e1f6daa-3be3-4568-bc9b-fecb70a29d10)
+![Q1_Img_27_A](https://github.com/user-attachments/assets/57d8dc18-7be0-4544-bcb2-babab877e89e)
+![Q1_Img_27_B](https://github.com/user-attachments/assets/937c4afb-a791-4e50-84a7-0b42f32e9ba8)
+![Q1_Img_27_C](https://github.com/user-attachments/assets/35695644-5096-4fce-8998-72e3ff6672eb)
+![Q1_Img_28](https://github.com/user-attachments/assets/93795050-e265-4c4c-83e7-466a9b2f93ba)
+![Q1_Img_29](https://github.com/user-attachments/assets/ce9386cb-01c6-47b6-85ec-e3ad2ec92c37)
+ 
+---  
+
+### ✅ Q2: Git LFS Integration for Large Files  
+
+![Q2_Img_01](https://github.com/user-attachments/assets/782ea1b8-7c94-486a-a89d-9896399f2b07)
+![Q2_Img_02](https://github.com/user-attachments/assets/749d6093-7c4f-470b-8876-e5705b144989)
+![Q2_Img_03](https://github.com/user-attachments/assets/fc775356-7bd7-40ff-bb3a-0f00567a3988)
+![Q2_Img_04](https://github.com/user-attachments/assets/3e735bdb-3bb4-4992-8083-d4d3cd78001a)
+![Q2_Img_05](https://github.com/user-attachments/assets/19374244-11aa-4a2c-a770-47400188c15b)
+![Q2_Img_06](https://github.com/user-attachments/assets/1c5f75ee-eb28-4e4f-9c48-eb85b65af78d)
+
+---  
+
+### ✅ Q3: Geometry Calculator - Git Stash Workflow  
+
 ![Q3_Img_01](https://github.com/user-attachments/assets/1e517cf7-1bd7-4e35-814d-51b3a5ac5daa)
 ![Q3_Img_02](https://github.com/user-attachments/assets/794228cd-eeca-4e9f-a12f-20dd10ccbad1)
 ![Q3_Img_03](https://github.com/user-attachments/assets/587e847e-2110-401e-81c4-419e1d122f6a)
@@ -190,28 +240,6 @@ python GeometryCalculator.py
 ![Q3_Img_34](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Assignment_02_DevOps_Outputs_Images/Q3_Img_34.png)
 ![Q3_Img_35](https://github.com/JOYSTON-LEWIS/My-Media-Repository/blob/main/Assignment_02_DevOps_Outputs_Images/Q3_Img_35.png)
 
+---  
 
----
-
-## 🛠️ Requirements
-Ensure you have the necessary dependencies installed before running the scripts:
-```cmd
-pip install math
-```
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
-## 🤝 Contributing
-Feel free to fork and improve the scripts! ⭐ If you find this project useful, please consider starring the repo—it really helps and supports my work! 😊
-
----
-
-## 📧 Contact
-For any queries, reach out via GitHub Issues.
-
-🎯 Thank you for reviewing this project! 🚀
+## 📌 End of Document  
